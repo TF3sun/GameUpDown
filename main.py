@@ -1,5 +1,4 @@
 import random
-import json
 
 def main():
     print('업다운 게임을 실행합니다.')
